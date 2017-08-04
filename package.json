@@ -1,0 +1,20 @@
+{
+  "name": "travis-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "ls ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamataryo/travis-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kamataryo/travis-test/issues"
+  },
+  "homepage": "https://github.com/kamataryo/travis-test#readme"
+}
